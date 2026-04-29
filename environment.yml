@@ -30,9 +30,11 @@ dependencies:
     - google-generativeai
     - gradio
     - gensim
+    - litellm
     - modal
     - ollama
     - psutil
+    - pypdf
     - setuptools
     - speedtest-cli
     - langchain
