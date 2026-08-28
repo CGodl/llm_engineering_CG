@@ -7,7 +7,7 @@ from langchain_chroma import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_openai import OpenAIEmbeddings
 
-# Reads knowledge base, turns docs to chunks, vectorize the chunks, Store in Chroma
+# Reads knowledge base, turns docs to chunks, vectorize the chunks, and store in Chroma
 from dotenv import load_dotenv
 
 MODEL = "gpt-4.1-nano"
