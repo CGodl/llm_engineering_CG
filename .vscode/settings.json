@@ -1,5 +1,8 @@
 {
     "python.defaultInterpreterPath": "/Users/cgoose/anaconda3/envs/llms/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "python.condaPath": "/Users/cgoose/anaconda3/bin/conda",
+    "python.analysis.diagnosticMode": "workspace",
     "cSpell.words": [
         "Malkavian",
         "plotly"

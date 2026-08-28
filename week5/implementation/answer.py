@@ -4,7 +4,7 @@ from langchain_chroma import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_core.messages import SystemMessage, HumanMessage, convert_to_messages
 from langchain_core.documents import Document
-
+# Two key functions. Gets context and answers
 from dotenv import load_dotenv
 
 
