@@ -1,4 +1,5 @@
 {
+    "python.defaultInterpreterPath": "/Users/cgoose/anaconda3/envs/llms/bin/python",
     "cSpell.words": [
         "Malkavian",
         "plotly"

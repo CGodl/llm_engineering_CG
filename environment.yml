@@ -43,6 +43,7 @@ dependencies:
     - langchain-openai
     - langchain-chroma
     - langchain-community
+    - langchain-huggingface
     - feedparser
     - twilio
     - pydub
